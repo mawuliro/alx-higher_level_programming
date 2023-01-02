@@ -1,20 +1,3 @@
-
-Hamicch
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x08-python-more_classes/6-rectangle.py
-
-hamicch task 6
- 0 contributors
-104 lines (92 sloc)  2.99 KB
 #!/usr/bin/python3
 """A module for working with rectangles.
 """
